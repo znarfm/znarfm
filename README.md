@@ -56,10 +56,10 @@
   <br/>
   <img src="https://img.shields.io/badge/Fedora-282a36?style=for-the-badge&logo=fedora&logoColor=8be9fd" alt="Fedora" />
   <img src="https://img.shields.io/badge/Android-282a36?style=for-the-badge&logo=android&logoColor=50fa7b" alt="Android" />
-  <img src="https://img.shields.io/badge/Windows-282a36?style=for-the-badge&logo=windows&logoColor=8be9fd" alt="Windows" />
-  <img src="https://img.shields.io/badge/VS_Code-282a36?style=for-the-badge&logo=visualstudiocode&logoColor=8be9fd" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Firefox-282a36?style=for-the-badge&logo=firefoxbrowser&logoColor=ffb86c" alt="Firefox" />
+  <img src="https://img.shields.io/badge/Zed-282a36?style=for-the-badge&logo=zedindustries&logoColor=f8f8f2" alt="Zed" />
+  <img src="https://img.shields.io/badge/Brave-282a36?style=for-the-badge&logo=brave&logoColor=ff5555" alt="Brave" />
   <img src="https://img.shields.io/badge/Chrome-282a36?style=for-the-badge&logo=googlechrome&logoColor=f1fa8c" alt="Chrome" />
+  <img src="https://img.shields.io/badge/Firefox-282a36?style=for-the-badge&logo=firefoxbrowser&logoColor=ffb86c" alt="Firefox" />
 </div>
 
 ---
