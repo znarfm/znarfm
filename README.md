@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&customColorList=2,3&height=180&section=header&text=Hey%20there,%20I'm%20Meinard%20👋&fontSize=30&fontColor=bd93f9&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&customColorList=2,3&height=180&section=header&text=Hey%20there,%20I'm%20Meinard%20👋&fontSize=30&fontColor=bd93f9" width="100%" alt="Header" />
 
   <p>
     <a href="https://www.hackerrank.com/profile/meinardadrian" target="_blank">
