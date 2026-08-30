@@ -50,8 +50,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=znarfm&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znarfm&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=znarfm&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=znarfm&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=znarfm&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ---
