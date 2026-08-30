@@ -31,7 +31,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-282a36?style=for-the-badge&logo=nextdotjs&logoColor=f8f8f2" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=8be9fd" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=8be9fd" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-282a36?style=for-the-badge&logo=tailwindcss&logoColor=8be9fd" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-282a36?style=for-the-badge&logo=shadcnui&logoColor=f8f8f2" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Strapi-282a36?style=for-the-badge&logo=strapi&logoColor=bd93f9" alt="Strapi" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-282a36?style=for-the-badge&logo=nodedotjs&logoColor=50fa7b" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bun-282a36?style=for-the-badge&logo=bun&logoColor=f1fa8c" alt="Bun" />
   <img src="https://img.shields.io/badge/Supabase-282a36?style=for-the-badge&logo=supabase&logoColor=50fa7b" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=8be9fd" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=8be9fd" alt="MySQL" />
@@ -43,8 +50,14 @@
   <img src="https://img.shields.io/badge/Bash-282a36?style=for-the-badge&logo=gnubash&logoColor=50fa7b" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=ff5555" alt="Git" />
   <br/>
-  <img src="https://img.shields.io/badge/Linux-282a36?style=for-the-badge&logo=linux&logoColor=f8f8f2" alt="Linux" />
+  <img src="https://img.shields.io/badge/Podman-282a36?style=for-the-badge&logo=podman&logoColor=8be9fd" alt="Podman" />
+  <img src="https://img.shields.io/badge/Jellyfin-282a36?style=for-the-badge&logo=jellyfin&logoColor=bd93f9" alt="Jellyfin" />
+  <img src="https://img.shields.io/badge/AdGuard-282a36?style=for-the-badge&logo=adguard&logoColor=50fa7b" alt="AdGuard" />
+  <br/>
+  <img src="https://img.shields.io/badge/Fedora-282a36?style=for-the-badge&logo=fedora&logoColor=8be9fd" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Android-282a36?style=for-the-badge&logo=android&logoColor=50fa7b" alt="Android" />
   <img src="https://img.shields.io/badge/Windows-282a36?style=for-the-badge&logo=windows&logoColor=8be9fd" alt="Windows" />
+  <img src="https://img.shields.io/badge/VS_Code-282a36?style=for-the-badge&logo=visualstudiocode&logoColor=8be9fd" alt="VS Code" />
   <img src="https://img.shields.io/badge/Firefox-282a36?style=for-the-badge&logo=firefoxbrowser&logoColor=ffb86c" alt="Firefox" />
   <img src="https://img.shields.io/badge/Chrome-282a36?style=for-the-badge&logo=googlechrome&logoColor=f1fa8c" alt="Chrome" />
 </div>
