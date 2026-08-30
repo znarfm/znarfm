@@ -20,7 +20,6 @@
 ### 👩‍💻 About Me
 
 - 📍 Based in the **Philippines**
-- 📚 Currently learning the basics of **web development**
 - 🤝 Love contributing to **open source projects** that I actively use
 - 🖥️ Running a **Dell Mini PC home server** with **AdGuard Home**, **Jellyfin**, and the ***arr stack**
 - 🧛 Big fan of the **Dracula theme** across everything
@@ -31,16 +30,21 @@
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=ffb86c" alt="Python" />
-  <img src="https://img.shields.io/badge/C-282a36?style=for-the-badge&logo=c&logoColor=8be9fd" alt="C" />
-  <img src="https://img.shields.io/badge/Java-282a36?style=for-the-badge&logo=openjdk&logoColor=ff5555" alt="Java" />
+  <img src="https://img.shields.io/badge/Next.js-282a36?style=for-the-badge&logo=nextdotjs&logoColor=f8f8f2" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Strapi-282a36?style=for-the-badge&logo=strapi&logoColor=bd93f9" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Supabase-282a36?style=for-the-badge&logo=supabase&logoColor=50fa7b" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=8be9fd" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=8be9fd" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-282a36?style=for-the-badge&logo=sqlite&logoColor=50fa7b" alt="SQLite" />
   <br/>
+  <img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=ffb86c" alt="Python" />
+  <img src="https://img.shields.io/badge/C-282a36?style=for-the-badge&logo=c&logoColor=8be9fd" alt="C" />
+  <img src="https://img.shields.io/badge/Java-282a36?style=for-the-badge&logo=openjdk&logoColor=ff5555" alt="Java" />
+  <img src="https://img.shields.io/badge/Bash-282a36?style=for-the-badge&logo=gnubash&logoColor=50fa7b" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=ff5555" alt="Git" />
+  <br/>
   <img src="https://img.shields.io/badge/Linux-282a36?style=for-the-badge&logo=linux&logoColor=f8f8f2" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-282a36?style=for-the-badge&logo=windows&logoColor=8be9fd" alt="Windows" />
-  <img src="https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=ff5555" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-282a36?style=for-the-badge&logo=gnubash&logoColor=50fa7b" alt="Bash" />
   <img src="https://img.shields.io/badge/Firefox-282a36?style=for-the-badge&logo=firefoxbrowser&logoColor=ffb86c" alt="Firefox" />
   <img src="https://img.shields.io/badge/Chrome-282a36?style=for-the-badge&logo=googlechrome&logoColor=f1fa8c" alt="Chrome" />
 </div>
